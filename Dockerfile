@@ -1,4 +1,4 @@
-FROM eclipse-temurin:8-jre-slim
+FROM adoptopenjdk/openjdk8:latest
 
 EXPOSE 8080
 
