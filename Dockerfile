@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk8:jre8u292-b10-alpine
+FROM eclipse-temurin:8-jre-slim
 
 EXPOSE 8080
 
